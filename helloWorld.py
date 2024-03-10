@@ -1,2 +1,2 @@
-# prints a simple message to the terminal
-print("“Git is Awesome!")
+# prints a simple message to the terminal 
+print("Git is Awesome!")
